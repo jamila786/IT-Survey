@@ -1,2 +1,2 @@
-# IT-Survey
-Salary of IT Employees  in Europe
+# Market basket analysis
+list of items which can be sold together
